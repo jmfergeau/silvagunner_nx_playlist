@@ -5,7 +5,7 @@ Except for the original musics of Cave Story, all the rest is made by the Silvag
 1. Unzip the folder "Ogg_gilva" inside the "data" folder of your Cave Story NX engine installation.
 
 2.1. If you don't have any other custom playlist in your game, Unzip the file "music_dirs.json" inside 
-     the "data" folder of your Cave Story NX engine installation. 
+     the "data" folder of your Cave Story NX engine installation. (Replace if prompted)
    
 2.2. If you have other custom playlists, open the "music_dirs.json" of your Cave Story installation 
      and add the following code behind the last } and before the ] :
