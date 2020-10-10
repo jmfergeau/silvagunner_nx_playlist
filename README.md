@@ -23,7 +23,6 @@ List of musics that aren't changed. Yet.
 - dr.ogg
 - ironh.ogg
 - lastbtl.ogg
-- quiet.ogg
 - vivi.ogg
 - wanpak2.ogg
 - wanpaku.ogg
