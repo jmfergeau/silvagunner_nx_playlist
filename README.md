@@ -24,5 +24,4 @@ List of musics that aren't changed. Yet.
 - lastbtl.ogg
 - vivi.ogg
 - wanpak2.ogg
-- wanpaku.ogg
 - white.ogg (unused?)
