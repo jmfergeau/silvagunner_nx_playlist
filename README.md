@@ -20,7 +20,6 @@ Except for the original musics of Cave Story, all the rest is made by the Silvag
 ## Missing musics
 List of musics that aren't changed. Yet.
 
-- ballos.ogg
 - dr.ogg
 - gameover.ogg
 - ironh.ogg
