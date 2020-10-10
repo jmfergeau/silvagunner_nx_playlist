@@ -21,7 +21,6 @@ Except for the original musics of Cave Story, all the rest is made by the Silvag
 List of musics that aren't changed. Yet.
 
 - dr.ogg
-- ironh.ogg
 - lastbtl.ogg
 - vivi.ogg
 - wanpak2.ogg
