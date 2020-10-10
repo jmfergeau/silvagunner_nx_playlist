@@ -1,5 +1,5 @@
 # Silvagunner music pack for Cave Story (NXEngine-evo)
-Except for the original musics of Cave Story, all the rest is made by the Silvagunner crew and belongs to them. [Watch them on YouTube here](https://www.youtube.com/channel/UC9ecwl3FTG66jIKA9JRDtmg).
+Except for the original musics of Cave Story, all the rest is made by the Silvagunner crew and belongs to them. [Watch them on YouTube here](https://www.youtube.com/watch?v=4RtJVxJ7qH4&list=PLL0CQjrcN8D1vxrcD6Q3bbQtNKw8kdhTt).
 
 ## How to install
 1. Unzip the folder "Ogg_gilva" inside the "data" folder of your Cave Story NX engine installation.
