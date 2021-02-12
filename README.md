@@ -16,12 +16,3 @@ Except for the original musics of Cave Story, all the rest is made by the Silvag
 4. ???
 
 5. PROFIT
-
-## Missing musics
-List of musics that aren't changed. Yet.
-
-- dr.ogg
-- lastbtl.ogg
-- vivi.ogg
-- wanpak2.ogg
-- white.ogg (unused?)
